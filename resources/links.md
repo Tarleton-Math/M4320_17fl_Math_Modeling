@@ -1,4 +1,4 @@
 - https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems
+- http://www.acsu.buffalo.edu/~adamcunn/spring2017/_downloads/MTH337ClassnotesSpring2017.pdf
 - https://cocalc.com
 - https://www.anaconda.com/download/
-- http://www.acsu.buffalo.edu/~adamcunn/spring2017/_downloads/MTH337ClassnotesSpring2017.pdf
