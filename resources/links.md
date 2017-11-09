@@ -2,3 +2,4 @@
 - http://www.acsu.buffalo.edu/~adamcunn/spring2017/_downloads/MTH337ClassnotesSpring2017.pdf
 - https://cocalc.com
 - https://www.anaconda.com/download/
+- https://media.readthedocs.org/pdf/networkx/latest/networkx.pdf
