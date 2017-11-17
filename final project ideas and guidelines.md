@@ -12,7 +12,7 @@ Components:
 - Conclusions
 - At least two references
 
-Submit as .ipynb notebook by email no later than 10:00PM on Sunday December 10.  Our course final exam is the prior day - you can ask last minute questions at that meeting.
+Submit as .ipynb notebook by email no later than **10:00PM on Sunday December 10**.  Our course final exam is the prior day - you can ask last minute questions at that meeting.
 
 You must send all files necessary to run your program - this include any data files too.  I may want to play with your program myself.  If you have more than file, please zip them into a single archive
 
